@@ -1,0 +1,739 @@
+50
+Cowboy Bebop
+Cowboy Bebop
+カウボーイビバップ
+223468
+86
+15956
+ANIME
+4
+Action
+Adventure
+Drama
+Sci-Fi
+1998
+4
+3
+Cowboy Bebop: Tengoku no Tobira
+Cowboy Bebop: The Movie - Knockin' on Heaven's Door
+カウボーイビバップ天国の扉
+42707
+82
+796
+ANIME
+4
+Action
+Drama
+Mystery
+Sci-Fi
+2001
+9
+1
+Trigun
+Trigun
+トライガン
+75225
+79
+2590
+ANIME
+5
+Action
+Adventure
+Comedy
+Drama
+Sci-Fi
+1998
+4
+1
+Witch Hunter Robin
+Witch Hunter Robin
+ウィッチハンター ロビン
+11028
+68
+91
+ANIME
+4
+Action
+Drama
+Mystery
+Supernatural
+2002
+7
+2
+Bouken Ou Beet
+Beet the Vandel Buster
+冒険王ビィト
+1579
+63
+9
+ANIME
+3
+Adventure
+Fantasy
+Supernatural
+2004
+9
+30
+Eyeshield 21
+Eyeshield 21
+アイシールド21
+18978
+75
+402
+ANIME
+3
+Action
+Comedy
+Sports
+2005
+4
+6
+Hachimitsu to Clover
+Honey and Clover
+ハチミツとクローバー
+33790
+76
+608
+ANIME
+4
+Comedy
+Drama
+Romance
+Slice of Life
+2005
+4
+15
+Hungry Heart: Wild Striker
+NULL
+ハングリーハート Wild Striker
+2633
+70
+32
+ANIME
+3
+Comedy
+Slice of Life
+Sports
+2002
+9
+11
+Initial D FOURTH STAGE
+NULL
+頭文字〈イニシャル〉D FOURTH STAGE
+20919
+79
+382
+ANIME
+3
+Action
+Drama
+Sports
+2004
+4
+17
+MONSTER
+Monster
+MONSTER
+120231
+87
+8020
+ANIME
+5
+Drama
+Horror
+Mystery
+Psychological
+Thriller
+2004
+4
+7
+Naruto
+Naruto
+ナルト
+341483
+80
+22114
+ANIME
+2
+Action
+Comedy
+2002
+10
+3
+One Piece
+One Piece
+ワンピース
+281240
+86
+37470
+ANIME
+5
+Action
+Adventure
+Comedy
+Drama
+Fantasy
+1999
+10
+20
+Tennis no Ouji-sama
+The Prince of Tennis
+テニスの王子様
+18837
+74
+364
+ANIME
+3
+Action
+Comedy
+Sports
+2001
+10
+10
+Ring ni Kakero 1
+NULL
+リングにかけろ１
+755
+53
+5
+ANIME
+2
+Action
+Sports
+2004
+10
+6
+School Rumble
+NULL
+スクールランブル
+34039
+76
+676
+ANIME
+2
+Comedy
+Romance
+2004
+10
+5
+Sunabouzu
+Desert Punk
+砂ぼうず
+14841
+68
+139
+ANIME
+5
+Action
+Adventure
+Comedy
+Ecchi
+Sci-Fi
+2004
+10
+6
+TEXHNOLYZE
+Texhnolyze
+TEXHNOLYZE
+37340
+76
+1353
+ANIME
+4
+Action
+Drama
+Psychological
+Sci-Fi
+2003
+4
+17
+Trinity Blood
+Trinity Blood
+トリニティ・ブラッド
+14435
+67
+139
+ANIME
+5
+Action
+Drama
+Horror
+Sci-Fi
+Supernatural
+2005
+4
+29
+Yakitate!! Japan
+NULL
+焼きたて!! ジャぱん
+11046
+75
+170
+ANIME
+1
+Comedy
+2004
+10
+12
+Zipang
+NULL
+ジパング
+3225
+70
+29
+ANIME
+2
+Action
+Sci-Fi
+2004
+10
+7
+Shin Seiki Evangelion
+Neon Genesis Evangelion
+新世紀エヴァンゲリオン
+217713
+83
+20526
+ANIME
+6
+Action
+Drama
+Mecha
+Mystery
+Psychological
+Sci-Fi
+1995
+10
+3
+Shin Seiki Evangelion Gekijouban: Shi to Shinsei
+Neon Genesis Evangelion: Death & Rebirth
+新世紀エヴァンゲリオン劇場版 シト新生
+31245
+72
+340
+ANIME
+4
+Drama
+Mecha
+Psychological
+Sci-Fi
+1997
+3
+15
+Shin Seiki Evangelion: THE END OF EVANGELION
+Neon Genesis Evangelion: The End of Evangelion
+新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION
+111287
+85
+9522
+ANIME
+5
+Action
+Drama
+Mecha
+Psychological
+Sci-Fi
+1997
+7
+19
+Kenpuu Denki Berserk
+Berserk
+剣風伝奇ベルセルク
+65435
+83
+4181
+ANIME
+6
+Action
+Adventure
+Drama
+Fantasy
+Horror
+Supernatural
+1997
+10
+7
+Koukaku Kidoutai
+Ghost in the Shell
+攻殻機動隊
+75709
+80
+2996
+ANIME
+3
+Action
+Psychological
+Sci-Fi
+1995
+11
+18
+Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen
+Samurai X: Trust and Betrayal
+るろうに剣心―明治剣客浪漫譚―追憶編
+26824
+84
+1191
+ANIME
+3
+Action
+Drama
+Romance
+1999
+2
+20
+Rurouni Kenshin: Meiji Kenkaku Romantan
+Rurouni Kenshin
+るろうに剣心 -明治剣客浪漫譚-
+48076
+79
+1423
+ANIME
+4
+Action
+Adventure
+Comedy
+Romance
+1996
+1
+10
+Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem
+Samurai X: The Motion Picture
+るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌
+4876
+70
+28
+ANIME
+1
+Drama
+1997
+12
+20
+AKIRA
+Akira
+AKIRA
+102868
+79
+4206
+ANIME
+6
+Action
+Adventure
+Horror
+Psychological
+Sci-Fi
+Supernatural
+1988
+7
+16
+.hack//Sign
+.hack//Sign
+.hack//SIGN
+19224
+65
+252
+ANIME
+4
+Adventure
+Fantasy
+Mystery
+Sci-Fi
+2002
+4
+4
+Aa! Megami-sama!
+Oh! My Goddess
+ああっ女神さまっ
+5732
+68
+64
+ANIME
+4
+Comedy
+Drama
+Romance
+Supernatural
+1993
+2
+21
+Aa! Megami-sama! (TV)
+Oh! My Goddess
+ああっ女神さまっ
+14157
+69
+133
+ANIME
+3
+Comedy
+Romance
+Supernatural
+2005
+1
+7
+Tenshi Kinryouku
+Angel Sanctuary
+天使禁猟区
+3838
+55
+15
+ANIME
+5
+Action
+Drama
+Ecchi
+Romance
+Supernatural
+2000
+5
+25
+Kidou Tenshi Angelic Layer
+Angelic Layer
+機動天使エンジェリックレイヤー
+5988
+68
+64
+ANIME
+4
+Comedy
+Drama
+Sci-Fi
+Sports
+2001
+4
+1
+Ai Yori Aoshi
+Ai Yori Aoshi
+藍より青し
+9997
+66
+66
+ANIME
+4
+Comedy
+Drama
+Romance
+Slice of Life
+2002
+4
+11
+Appleseed (Movie)
+NULL
+アップルシード
+6348
+65
+41
+ANIME
+4
+Action
+Drama
+Mecha
+Sci-Fi
+2004
+4
+17
+Arc the Lad
+NULL
+アークザラッド
+1590
+59
+7
+ANIME
+5
+Action
+Adventure
+Fantasy
+Horror
+Sci-Fi
+1999
+4
+5
+Avenger
+NULL
+アヴェンジャー
+1822
+52
+7
+ANIME
+3
+Adventure
+Fantasy
+Sci-Fi
+2003
+10
+2
+Beck: Mongolian Chop Squad
+Beck: Mongolian Chop Squad
+Beck: Mongolian Chop Squad
+40504
+80
+1414
+ANIME
+4
+Comedy
+Drama
+Music
+Slice of Life
+2004
+10
+7
+Blue Gender
+NULL
+ブルージェンダー
+8327
+65
+76
+ANIME
+7
+Adventure
+Drama
+Horror
+Mecha
+Psychological
+Romance
+Sci-Fi
+1999
+10
+8
+Chobits
+Chobits
+ちょびっツ
+45721
+70
+760
+ANIME
+5
+Comedy
+Drama
+Ecchi
+Romance
+Sci-Fi
+2002
+4
+3
+Chrno Crusade
+Chrono Crusade
+クロノクルセイド
+19233
+71
+224
+ANIME
+3
+Action
+Romance
+Supernatural
+2003
+11
+24
+D.N.Angel
+D.N.Angel
+Ｄ・Ｎ・ＡＮＧＥＬ
+13971
+66
+141
+ANIME
+4
+Action
+Comedy
+Fantasy
+Romance
+2003
+4
+3
+D.C.: Da Capo
+D.C.~Da Capo~
+D.C.～ダ・カーポ～
+8401
+62
+31
+ANIME
+2
+Drama
+Romance
+2003
+7
+5
+DearS
+NULL
+ディアーズ
+13285
+59
+79
+ANIME
+4
+Comedy
+Ecchi
+Romance
+Sci-Fi
+2004
+7
+11
+Rozen Maiden
+Rozen Maiden
+ローゼンメイデン
+21130
+70
+250
+ANIME
+4
+Action
+Comedy
+Drama
+Supernatural
+2004
+10
+8
+Rozen Maiden: Träumend
+Rozen Maiden: Dreaming
+ローゼンメイデン ~ トロイメント
+10443
+72
+83
+ANIME
+3
+Action
+Comedy
+Drama
+2005
+10
+21
+Azumanga Daioh
+Azumanga Daioh
+あずまんが大王
+38744
+77
+1076
+ANIME
+2
+Comedy
+Slice of Life
+2002
+4
+9
+Basilisk: Kouga Ninpouchou
+Basilisk: The Kouga Ninja Scrolls
+バジリスク 甲賀忍法帖
+17435
+71
+205
+ANIME
+4
+Action
+Adventure
+Fantasy
+Romance
+2005
+4
+13
+Black Cat
+Black Cat
+ブラックキャット
+24440
+69
+288
+ANIME
+3
+Adventure
+Comedy
+Sci-Fi
+2005
+10
+6
